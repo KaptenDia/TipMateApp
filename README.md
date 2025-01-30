@@ -10,6 +10,9 @@
 - **Responsive UI**: The app adjusts to both light and dark themes for a consistent experience across different system settings.
 - **Material Design 3**: Uses Material Design 3 for a modern and visually appealing interface with seamless animations and transitions.
 
+##Note
+- **This app for calculate split bill with format rupiah indonesia!
+
 ## Technologies Used
 
 - **Kotlin**: The app is developed using Kotlin, leveraging its modern features for concise and efficient code.
